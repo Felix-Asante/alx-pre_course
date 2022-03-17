@@ -1,2 +1,2 @@
-**My first readme \n**
-Updating README from github directly
+**My first readme**
+<p>Updating README from github directly</p>
